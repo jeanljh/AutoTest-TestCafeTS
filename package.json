@@ -1,0 +1,14 @@
+{
+  "name": "travelertick",
+  "version": "1.0.0",
+  "description": "test travelertick",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe"
+  },
+  "devDependencies": {
+    "testcafe": "^1.2.1"
+  },
+  "author": "jean",
+  "license": "ISC"
+}

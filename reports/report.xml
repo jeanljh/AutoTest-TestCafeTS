@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="TestCafe Tests: Chrome 75.0.3770 / Windows 10.0.0, Edge 18.17763.0 / Windows 10.0.0" tests="3" failures="0" skipped="0" errors="0" time="34.441" timestamp="Sat, 08 Jun 2019 11:21:12 GMT" >
+  <testcase classname="Test main search features" name="Test enter route and select from auto-suggest" time="13.582">
+  </testcase>
+  <testcase classname="Test main search features" name="Test select departure and return dates from datepicker" time="14.847">
+  </testcase>
+  <testcase classname="Test main search features" name="Test select total passengers" time="16.056">
+  </testcase>
+</testsuite>

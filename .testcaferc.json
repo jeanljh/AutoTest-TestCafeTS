@@ -1,0 +1,7 @@
+{
+    "browsers": ["chrome" ],
+    "src": ["test_cases/*.ts"],
+    "screenshotPathPattern": "${DATE}_${TIME}/test-${TEST_INDEX}/${USERAGENT}/${FILE_INDEX}.png",
+    "screenshotPath": "screenshots",
+    "takeScreenshotsOnFails": true
+}
